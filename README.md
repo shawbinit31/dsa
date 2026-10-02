@@ -24,6 +24,7 @@ Adding
 | [0063-unique-paths-ii](https://github.com/shawbinit31/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shawbinit31/dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shawbinit31/dsa/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/shawbinit31/dsa/tree/master/0068-text-justification) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Adding
 | ------- |
 | [0065-valid-number](https://github.com/shawbinit31/dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/shawbinit31/dsa/tree/master/0068-text-justification) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +44,5 @@ Adding
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/shawbinit31/dsa/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
