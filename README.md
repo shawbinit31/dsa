@@ -7,6 +7,7 @@ Adding
 | ------- |
 | [0062-unique-paths](https://github.com/shawbinit31/dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shawbinit31/dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,13 @@ Adding
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/shawbinit31/dsa/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
