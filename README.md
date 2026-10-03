@@ -28,11 +28,13 @@ Adding
 | [0064-minimum-path-sum](https://github.com/shawbinit31/dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shawbinit31/dsa/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/shawbinit31/dsa/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/shawbinit31/dsa/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shawbinit31/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shawbinit31/dsa/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shawbinit31/dsa/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Adding
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/shawbinit31/dsa/tree/master/0071-simplify-path) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shawbinit31/dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
