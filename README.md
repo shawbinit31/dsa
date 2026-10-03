@@ -30,6 +30,7 @@ Adding
 | [0068-text-justification](https://github.com/shawbinit31/dsa/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shawbinit31/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shawbinit31/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -70,4 +71,20 @@ Adding
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shawbinit31/dsa/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
