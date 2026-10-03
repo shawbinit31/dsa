@@ -38,6 +38,7 @@ Adding
 | [0065-valid-number](https://github.com/shawbinit31/dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shawbinit31/dsa/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/shawbinit31/dsa/tree/master/0071-simplify-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Adding
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shawbinit31/dsa/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/shawbinit31/dsa/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
