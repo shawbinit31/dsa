@@ -31,6 +31,7 @@ Adding
 | [0073-set-matrix-zeroes](https://github.com/shawbinit31/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shawbinit31/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shawbinit31/dsa/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Adding
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shawbinit31/dsa/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shawbinit31/dsa/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -97,4 +99,5 @@ Adding
 |  |
 | ------- |
 | [0077-combinations](https://github.com/shawbinit31/dsa/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/shawbinit31/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
