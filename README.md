@@ -33,6 +33,7 @@ Adding
 | [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shawbinit31/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shawbinit31/dsa/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shawbinit31/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Adding
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shawbinit31/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shawbinit31/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
