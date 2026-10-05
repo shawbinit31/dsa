@@ -84,6 +84,7 @@ Adding
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shawbinit31/dsa/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shawbinit31/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +111,8 @@ Adding
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shawbinit31/dsa/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shawbinit31/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
