@@ -27,6 +27,7 @@ Adding
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/shawbinit31/dsa/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/shawbinit31/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shawbinit31/dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shawbinit31/dsa/tree/master/0066-plus-one) |
@@ -116,6 +117,7 @@ Adding
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/shawbinit31/dsa/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shawbinit31/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shawbinit31/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shawbinit31/dsa/tree/master/0079-word-search) |
@@ -142,4 +144,8 @@ Adding
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shawbinit31/dsa/tree/master/0050-powx-n) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shawbinit31/dsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
